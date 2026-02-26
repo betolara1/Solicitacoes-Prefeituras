@@ -73,7 +73,7 @@ O diferencial técnico deste projeto é a sua **Engine DDL Automática**, que pe
 
 | Portal do Cidadão | Mapa de Georreferenciamento |
 |:---:|:---:|
-| ![Portal](assets/screenshots/dashboard-estatisticas.png) | ![Mapa](assets/screenshots/mapa-localizacao.jpg) |
+| ![Portal](assets/screenshots/dashboard-estatisticas.png) | ![Mapa](assets/screenshots/mapa-localizacao.png) |
 
 | Gestão de Tabelas SQL | Dashboards |
 |:---:|:---:|
